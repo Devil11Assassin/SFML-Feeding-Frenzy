@@ -55,7 +55,7 @@ In Q3 of 2024, the goal was expanded to include the concepts of Object-Oriented 
 
 ## Development
 
-- Developed by @Devil11Assassin, ___ and ___
+- Developed by @Devil11Assassin, @Mohameddtareq1 and ___
 - Built using [`SFML 2.5.1`](https://github.com/SFML/SFML/releases/tag/2.5.1)
 - Structured Programming Project (2nd Semester - college)
 - Updated with OOP & Data Structures (4th Semester - independent)
